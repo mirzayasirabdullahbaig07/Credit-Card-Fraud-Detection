@@ -1,5 +1,4 @@
-# Credit Card Fraud Detection — Deployable Project
-
+# Credit Card Fraud Detection
 A complete pipeline: train in Google Colab → deploy a live app on Streamlit
 Community Cloud.
 
